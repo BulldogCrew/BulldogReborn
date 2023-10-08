@@ -45,7 +45,7 @@
 .tf-button.style-2 {
   background: transparent;
   color: var(--primary-color3);
-  border: 2px solid #e99500;
+  border: 2.75px solid #e99500;
 }
 
 .tf-button::before {
@@ -1768,7 +1768,7 @@
 }
 
 .tf-slider-item .content-inner .tf-button.style-2 {
-  padding: 11px 22px;
+  padding: 11px 24px;
   color: #fff;
 }
 
@@ -2189,8 +2189,8 @@
 }
 
 .tf-about .counter-wrap .tf-counter {
-  text-align: left;
-  margin-right: 60px;
+  text-align: auto;
+  margin-right: 28px;
 }
 
 .tf-about .counter-wrap .tf-counter:last-child {
@@ -2198,7 +2198,7 @@
 }
 
 .tf-about .counter-wrap .tf-counter h6 {
-  margin-bottom: 8px;
+  margin-bottom: 9px;
 }
 
 .tf-about.style-2 {
