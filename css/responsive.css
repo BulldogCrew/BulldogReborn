@@ -580,7 +580,8 @@
   }
 
   .ico-with-rocket {
-    max-width: 320px;
+    max-width: 200px;
+    margin-bottom: 16px;
   }
 
   .home-2 .tf-about {
@@ -822,7 +823,7 @@
 
 @media only screen and (max-width: 360px) {
   .tf-roadmap-style-thumb .content-rm-thumb {
-    height: 720px;
+    height: 1170px;
   }
 }
 
