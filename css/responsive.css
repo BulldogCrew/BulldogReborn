@@ -103,6 +103,7 @@
 
   .ico-with-rocket {
     max-width: 500px;
+    margin-bottom: 16px;
   }
 }
 
@@ -175,6 +176,7 @@
   .ico-with-rocket {
     max-width: 450px;
     width: 100%;
+    margin-bottom: 16px;
   }
 
   #main-nav>ul>li>a {
